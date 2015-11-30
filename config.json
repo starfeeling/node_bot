@@ -1,0 +1,11 @@
+{
+  "db":{
+        "host":"127.0.0.1",
+        "user":"root",
+        "password":"furu4cj6",
+        "database":"bot"
+    },
+    "baseSite":"http://zh.wikipedia.org/wiki/Category:%E6%97%A5%E8%AA%9E%E9%9B%BB%E8%A6%96%E5%8A%87"
+}
+
+
